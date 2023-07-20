@@ -1,5 +1,15 @@
 # README
 
+## Contact Us
+
+龚海琦 GongHaiqi (Team Contact Person) : gonghq@shanghaitech.edu.cn
+
+李奕好 LiYihao : liyh3@shanghaitech.edu.cn
+
+刘禹彤 Liuyutong : liuyt4@shanghaitech.edu.cn
+
+何佳馨 HeJiaxin: hejx@shanghaitech.edu.cn
+
 ## Delivery
 
 Our delivery mainly contains a **5-page-Poster** and a **Presentation Video**
@@ -18,7 +28,7 @@ All Our Delivery can be downloaded at:https://github.com/realRoosterWho/Iris_LEA
 
 This includes our the detailed process of our project.
 
-==ASK FOR PERMISSION BEFORE SHARING WITH OTHERS== 
+==ASK FOR PERMISSION BEFORE FORMALLY SHARING WITH OTHERS== 
 
 ### Figjam
 
@@ -42,11 +52,9 @@ Description:
 
 ​		The design process and experiment process record.
 
-Link(ViewOnly):
+Link(View Only):
 
 ​		https://sepia-course-cd0.notion.site/LEAD_Blind_Summer-2b97115fb84d4cc8badcef482b944c75?pvs=4
-
-
 
 ### Source Code:
 
@@ -59,3 +67,7 @@ Description:
 	- Vibration Unit Encoding and Controllling
 
 Link:https://github.com/realRoosterWho/LEADProject_Original.git
+
+## Project File
+
+Please contact GongHaiqi (Team Contact Person) for detailed information: gonghq@shanghaitech.edu.cn
