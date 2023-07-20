@@ -42,7 +42,7 @@ Description:
 
 ​		The design process and experiment process record.
 
-Link:
+Link(ViewOnly):
 
 ​		https://sepia-course-cd0.notion.site/LEAD_Blind_Summer-2b97115fb84d4cc8badcef482b944c75?pvs=4
 
