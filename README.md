@@ -14,6 +14,8 @@
 
 Our delivery mainly contains a **5-page-Poster** and a **Presentation Video**
 
+The README .md also contains the Figjam/Figma/Notion/SourceCode used in this project.
+
 This ZIP/Repository  contains:
 
 - 1 .pdf file of the Poster
